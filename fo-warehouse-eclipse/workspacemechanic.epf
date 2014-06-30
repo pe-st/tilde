@@ -1,0 +1,41 @@
+# @title pesche
+# @description Meine Defaults
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Feb 19 10:24:02 CET 2014
+file_export_version=3.0
+/instance/com.google.eclipse.mechanic/mechanicSourceDirectories=["C\:\\\\Daten\\\\src\\\\FO\\\\Warehouse\\\\users\\\\tksnp\\\\eclipse","\\\\\\\\base.dom\\\\daten\\\\Biel\\\\Homes\\\\TKSNP\\\\.eclipse\\\\mechanic","C\:\\\\Daten\\\\P\\\\eclipse\\\\4.3\\\\eclipse\\\\configuration\\\\com.google.eclipse.mechanic\\\\mechanic"]
+/instance/de.loskutov.anyedit.AnyEditTools/saveAndAddLine=true
+/instance/de.loskutov.anyedit.AnyEditTools/saveAndConvert=true
+/instance/org.eclipse.core.resources/encoding=UTF-8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_arguments_in_annotation=2
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_arguments_in_annotation=81
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.alignment_for_enum_constants=49
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.comment.format_javadoc_comments=false
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.comment.line_length=255
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.indentation.size=8
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.join_lines_in_comments=false
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.join_wrapped_lines=false
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.lineSplit=256
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.tabulation.char=space
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.formatter.use_on_off_tags=true
+/instance/org.eclipse.jdt.ui/cleanup.use_blocks=true
+/instance/org.eclipse.jdt.ui/cleanup_profile=_CDFA-Cleanup
+/instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.junit.Assert.*;org.hamcrest.CoreMatchers.*;org.mockito.Mockito.*
+/instance/org.eclipse.jdt.ui/editor_save_participant_org.eclipse.jdt.ui.postsavelistener.cleanup=true
+/instance/org.eclipse.jdt.ui/formatter_profile=_CDFA Formatter
+/instance/org.eclipse.jdt.ui/sp_cleanup.format_source_code=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.organize_imports=true
+/instance/org.eclipse.jdt.ui/spelling_user_dictionary=C\:\\Daten\\src\\fo_java\\ao\\tools\\eclipse\\user_dictionary.txt
+/instance/org.eclipse.jdt.ui/spelling_user_dictionary_encoding=
+/instance/org.eclipse.m2e.core/eclipse.m2.userSettingsFile=c\:\\Daten\\P\\maven3\\conf\\settings.xml
+/instance/org.eclipse.ui.editors/spacesForTabs=true
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands>\r\n<keyBinding commandId\="org.eclipse.ui.window.splitEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+X 2">\r\n<parameter id\="Splitter.isHorizontal" value\="true"/>\r\n</keyBinding>\r\n<keyBinding commandId\="org.eclipse.ui.window.splitEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+X 3">\r\n<parameter id\="Splitter.isHorizontal" value\="false"/>\r\n</keyBinding>\r\n<keyBinding commandId\="org.moreunit.core.commands.jumpCommand" contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+TAB"/>\r\n<keyBinding contextId\="org.eclipse.jdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+J"/>\r\n<keyBinding commandId\="org.moreunit.core.commands.jumpCommand" contextId\="org.eclipse.jdt.ui.javaEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+TAB"/>\r\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+J"/>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+J"/>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+{"/>\r\n<keyBinding commandId\="org.moreunit.core.commands.jumpCommand" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+TAB"/>\r\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+_"/>\r\n</org.eclipse.ui.commands>
+/instance/org.moreunit/org.moreunit.extendedTestMethodSearch=true
+/instance/org.moreunit/org.moreunit.junit_path=src/test/java
+/instance/org.moreunit/org.moreunit.preferences.version=2
+/instance/org.moreunit/org.moreunit.testClassNameTemplate=${srcFile}(Test|IT)
+/instance/org.moreunit/org.moreunit.test_methodType=testMethodTypeNoPrefix
+/instance/org.sonar.ide.eclipse.core/servers/initialized=true
+# /instance/org.sonar.ide.eclipse.core/servers/http\:\/\/mdzhwfoto03\:9000/auth=true
